@@ -6,6 +6,7 @@ use App\Checks\NodeVersionsCheck;
 use App\Checks\PanelVersionCheck;
 use App\Checks\UsedDiskSpaceCheck;
 use App\Extensions\OAuth\Providers\AuthentikProvider;
+use App\Extensions\OAuth\Providers\AutheliaProvider;
 use App\Extensions\OAuth\Providers\CommonProvider;
 use App\Extensions\OAuth\Providers\DiscordProvider;
 use App\Extensions\OAuth\Providers\GithubProvider;
